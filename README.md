@@ -1,4 +1,5 @@
-A sample command-line application.
+# [rxdart examples](https://pub.dev/packages/rxdart)
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+This source code was written by running [rxdart examples](https://pub.dev/packages/rxdart). [rxdart examples](https://pub.dev/packages/rxdart) that lack expressions have changed.
+
+This source code is licensed under [rxdart examples](https://pub.dev/packages/rxdart).
